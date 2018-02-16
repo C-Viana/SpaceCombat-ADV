@@ -1,5 +1,9 @@
 
-	All images. sound effects and music used in this project were taken from different sites from Google search. None of the art presented in this game were created by me. 
+	All images, sound effects and music used in this project were taken from different sites from Google search. None of the art presented in this game were created by me. 
+
+	Main music theme is a track from the game Medal of Honor (1999) for Playstation One. The music is named Rjuken Sabotage, composed by Michael Giacchino. 
+
+	The development of this game was only for educational purposes. No profit intented. 
 
 	This project was developed as part of a college's class about paralelism computing. 
 
